@@ -1,4 +1,1 @@
-https://github.com/huyentrangduong/js-3
-https://github.com/huyentrangduong/webdev-assignments/tree/main/js-3
-https://github.com/huyentrangduong/software2/tree/main/assignment/webdev-assignments/js-3
-https://github.com/huyentrangduong/software2/tree/main/assignment/webdev-assignments/js-3
+https://github.com/huyentrangduong/webdev-assignments
